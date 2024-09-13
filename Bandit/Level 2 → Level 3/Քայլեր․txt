@@ -1,0 +1,10 @@
+***Մակարդակի նպատակ***
+  Հաջորդ մակարդակի գաղտնաբառը պահվում է ֆայլում, որը կոչվում է spaces in this filename, որը գտնվում է տուն կատալոգում։
+
+***Հրամաններ, որոնք քեզ անհրաժեշտ են այս մակարդակը լուծելու համար։ 
+```Bash
+-> ssh bandit2@bandit.labs.overthewire.org -p 2220 # Մութք գործել bandit2
+-> ls                                              # Տեսնել բովանդակությունը տան«հիմնական» կատալոգում
+-> cat spaces\ in\ this\ filename                  # Կարդալ spaces in this filename ֆայլը
+Գաղտնաբառը, որը փնտրում եք Levl 3֊ի համար, հետևյալն է՝ MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+-> exit                                            # Դուրս գալ

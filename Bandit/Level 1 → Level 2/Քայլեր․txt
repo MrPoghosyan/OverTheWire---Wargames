@@ -6,5 +6,5 @@
 -> ssh bandit1@bandit.labs.overthewire.org -p 2220 # Մութք գործել bandit1
 -> ls                                              # Տեսնել բովանդակությունը տան«հիմնական» կատալոգում
 -> cat ./- կամ cat -< -                            # Կարդալ ֊ ֆայլը
-Գաղտնաբառը, որը փնտրում եք Levl 1֊ի համար, հետևյալն է՝ 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+Գաղտնաբառը, որը փնտրում եք Levl 2֊ի համար, հետևյալն է՝ 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 -> exit                                            # Դուրս գալ
